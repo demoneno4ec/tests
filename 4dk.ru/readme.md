@@ -3,6 +3,7 @@
 <details>
     <summary>
         <i> Задача 1 </i>
+        <a href="https://github.com/demoneno4ec/tests/blob/master/4dk.ru/balance.php">Решение</a>
     </summary>
     <p>
         Your goal is to make that 6 qu kata from codewars. You should write function balance using all you know about PHP 7 best practices and PSRs. Result should be published on github.
@@ -63,7 +64,6 @@
         Выложить виджет на какой-нибудь онлайн-платформе, типа jsfiddle, codepen.
     </p>
 </details>
- 
 
 <details>
     <summary>
