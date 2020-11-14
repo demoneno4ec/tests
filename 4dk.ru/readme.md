@@ -47,6 +47,7 @@
 <details>
     <summary>
         <i> Задача 1 </i>
+        <a href="https://codepen.io/demoneno4ec/pen/eYzxyML">Решение</a>
     </summary>
     <p>
         Необходимо сделать виджет (vue-js компонент), отображающий точное текущее время 
