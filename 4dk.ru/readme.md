@@ -1,15 +1,27 @@
 # backend
-## Задача 1
-Your goal is to make that 6 qu kata from codewars. You should write function balance using all you know about PHP 7 best practices and PSRs. Result should be published on github.
 
-Description: Each exclamation mark weight is 2; Each question mark weight is 3. Put two string left and right to the balance, Are they balanced?
-If the left side is more heavy, return "Left"; If the right side is more heavy, return "Right"; If they are balanced, return "Balance".
+<details>
+    <summary>
+        <i> Задача 1 </i>
+    </summary>
+    <p>
+        Your goal is to make that 6 qu kata from codewars. You should write function balance using all you know about PHP 7 best practices and PSRs. Result should be published on github.
+    </p>
+    <p>
+        Each exclamation mark weight is 2; Each question mark weight is 3. Put two string left and right to the balance, Are they balanced?
+        If the left side is more heavy, return "Left"; If the right side is more heavy, return "Right"; If they are balanced, return "Balance". 
+    </p>
+    <p>
+        Examples:
+        balance("!!","??") === "Right"
+        balance("!??","?!!") === "Left"
+        balance("!?!!","?!?") === "Left"
+        balance("!!???!????","??!!?!!!!!!!") === "Balance"
+    </p>
+</details>
+ 
 
-Examples:
-balance("!!","??") === "Right"
-balance("!??","?!!") === "Left"
-balance("!?!!","?!?") === "Left"
-balance("!!???!????","??!!?!!!!!!!") === "Balance"
+
 
 ## Задача 2
 Описание предметной области - делаем простой телефонный справочник на Laravel.
