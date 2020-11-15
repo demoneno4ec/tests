@@ -1,5 +1,4 @@
 # backend
-
 <details>
     <summary>
         <i> Задача 1 </i>
@@ -21,10 +20,10 @@
     </p>
 </details>
 
-
 <details>
     <summary>
         <i> Задача 2 </i>
+        <a href="https://github.com/demoneno4ec/4dk.ru">Решение (MVP)</a>
     </summary>
     <p>
         Описание предметной области - делаем простой телефонный справочник на Laravel.
